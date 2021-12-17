@@ -11,7 +11,7 @@ You can always find the address of the currently active ngrok tunnel by logging 
 Install the plugin via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/fieldOfView/OctoPrint-ngrok/archive/master.zip
+    https://github.com/zachvig/OctoPrint-ngrok/archive/master.zip
 
 Sign up for a free or paid [ngrok account](https://dashboard.ngrok.com/signup).
 
